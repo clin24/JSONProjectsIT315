@@ -1,15 +1,15 @@
 {
 	"Stores": [
 		{
-			"name": "TFSource"
+			"name": "TFSource",
 			"description": "TFSource is the best site for Transformers toys and collectibles. 3rd Party Transformers, Masterpiece Transformers, we have it all! Shop now."
 		},
 		{
-			"name": "BigBadToyStore"
+			"name": "BigBadToyStore",
 			"description": "BigBadToyStore has a massive selection of toys (like action figures, statues, and collectibles) from Marvel, DC Comics, Transformers, Star Wars, Movies,etc"
 		},
 		{
-			"name": "USA Gundam Store"
+			"name": "USA Gundam Store",
 			"description": "USA Gundam Store. The Best Service And Prices For All Gundam & Japanese Anime Characters! 100% Authentic Gundam. Low Prices. Fast Shipping. Huge Selection of Gundam. Large Selection. Price Match Guarantee. Pre-Order Future Releases."
 		}
 
