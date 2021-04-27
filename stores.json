@@ -1,5 +1,5 @@
 {
-	"Stores": {
+	"Stores": [
 		{
 			"name": "TFSource"
 			"description": "TFSource is the best site for Transformers toys and collectibles. 3rd Party Transformers, Masterpiece Transformers, we have it all! Shop now."
@@ -13,5 +13,5 @@
 			"description": "USA Gundam Store. The Best Service And Prices For All Gundam & Japanese Anime Characters! 100% Authentic Gundam. Low Prices. Fast Shipping. Huge Selection of Gundam. Large Selection. Price Match Guarantee. Pre-Order Future Releases."
 		}
 
-	}
+	]
 }
