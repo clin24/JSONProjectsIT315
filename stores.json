@@ -2,15 +2,38 @@
 	"Stores": [
 		{
 			"name": "TFSource",
-			"description": "TFSource is the best site for Transformers toys and collectibles. 3rd Party Transformers, Masterpiece Transformers, we have it all! Shop now."
+			"description": "TFSource is the best site for Transformers toys and collectibles. 3rd Party Transformers, Masterpiece Transformers, we have it all! Shop now.",
+			"image_url": "https://raw.githubusercontent.com/clin24/JSONProjectsIT315/master/Transformers.jpg",
+			"site": "https://www.TFsource.com",
+			"category": "Transformers"
 		},
 		{
 			"name": "BigBadToyStore",
-			"description": "BigBadToyStore has a massive selection of toys (like action figures, statues, and collectibles) from Marvel, DC Comics, Transformers, Star Wars, Movies,etc"
+			"description": "BigBadToyStore has a massive selection of toys (like action figures, statues, and collectibles) from Marvel, DC Comics, Transformers, Star Wars, Movies,etc",
+			"image_url": "https://raw.githubusercontent.com/clin24/JSONProjectsIT315/master/ironman.jpg",
+			"site": "https://www.bbts.com",
+			"category": "Action Figure, Collectibles"
 		},
 		{
 			"name": "USA Gundam Store",
-			"description": "USA Gundam Store. The Best Service And Prices For All Gundam & Japanese Anime Characters! 100% Authentic Gundam. Low Prices. Fast Shipping. Huge Selection of Gundam. Large Selection. Price Match Guarantee. Pre-Order Future Releases."
+			"description": "USA Gundam Store. The Best Service And Prices For All Gundam & Japanese Anime Characters! 100% Authentic Gundam. Low Prices. Fast Shipping. Huge Selection of Gundam. Large Selection. Price Match Guarantee. Pre-Order Future Releases.",
+			"image_url": "https://raw.githubusercontent.com/clin24/JSONProjectsIT315/master/gundam.jpg",
+			"site": "https://www.usagundamstore.com",
+			"category": "Gundam Model Kit"
+		},
+		{
+			"name": "Tokullectibles",
+        		"description": "Purchase and Preorder Super Sentai, Kamen Rider, Premium Bandai & Power Rangers toys & Merchandise from Japan!",
+			"image_url": "https://raw.githubusercontent.com/clin24/JSONProjectsIT315/master/KamenRider.jpg",
+			"site": "https://www.tokullectibles.com",
+			"category": "Kamen Rider"
+		},
+		{
+			"name": "Entertainment Earth",
+			"description": "Entertainment Earth is an online retailer and wholesaler of licensed collectibles, including action figures, clothing, statues, prop replicas, games, vinyl figures, dolls, and toys.",
+			"image_url": "https://raw.githubusercontent.com/clin24/JSONProjectsIT315/master/EnterEarth.jpg",
+			"site": "https://www.entertainmentearth.com",
+        		"category": "Action Figure, Collectibles"
 		}
 
 	]
